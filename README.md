@@ -1,7 +1,6 @@
-# Laporan Proyek Machine Learning - Michael Eko
----
+# Project Akhir Skilvul Machine Learning - Kelompok 25
 
-## Domain Proyek
+## Domain Project Akhir Skilvul Machine Learning
 ---
 
 ### Latar Belakang
